@@ -10,13 +10,13 @@ I'm a 19 Year old student from germany.
 * 🥅Goals for 2020: finishing my own website and mobile app.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="center" alt="ehrenschwan.dev" width="22px" src="https://image.flaticon.com/icons/svg/125/125296.svg" />][website]
+[<img align="center" alt="ehrenschwan.dev" width="44px" src="https://image.flaticon.com/icons/svg/125/125296.svg" />][website]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="center" alt="lazy_luca999 | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/185/185985.svg" />][instagram]
+[<img align="center" alt="lazy_luca999 | Instagram" width="44px" src="https://image.flaticon.com/icons/svg/185/185985.svg" />][instagram]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="center" alt="ehrenschwan | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/185/185961.svg" />][twitter]
+[<img align="center" alt="ehrenschwan | Twitter" width="44px" src="https://image.flaticon.com/icons/svg/185/185961.svg" />][twitter]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="center" alt="Luca Schwan | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/185/185964.svg" />][linkedin]
+[<img align="center" alt="Luca Schwan | LinkedIn" width="44px" src="https://image.flaticon.com/icons/svg/185/185964.svg" />][linkedin]
 
 
 [website]: https://ehrenschwan.dev
