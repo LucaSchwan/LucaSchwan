@@ -9,10 +9,10 @@ I'm a 19 Year old student from germany.
 
 * 🥅Goals for 2020: finishing my own website and mobile app.
 
-[<img align="left" alt="ehrenschwan.dev" width="22px" src="https://image.flaticon.com/icons/svg/169/169267.svg" />][website]
-[<img align="left" alt="lazy_luca999 | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/725/725339.svg" />][instagram]
-[<img align="left" alt="ehrenschwan | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733635.svg" />][twitter]
-[<img align="left" alt="Luca Schwan | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/39/39714.svg" />][linkedin]
+[<img align="left" alt="ehrenschwan.dev" width="22px" src="https://image.flaticon.com/icons/svg/125/125296.svg" />][website]
+[<img align="left" alt="lazy_luca999 | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/185/185985.svg" />][instagram]
+[<img align="left" alt="ehrenschwan | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/185/185961.svg" />][twitter]
+[<img align="left" alt="Luca Schwan | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/185/185964.svg" />][linkedin]
 
 
 [website]: https://ehrenschwan.dev
