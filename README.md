@@ -10,7 +10,6 @@ I'm a 19 Year old student from germany.
 * 🥅Goals for 2020: finishing my own website and mobile app.
 
 <br />
-<br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="center" alt="ehrenschwan.dev" width="35px" src="https://image.flaticon.com/icons/svg/125/125296.svg" />][website]
@@ -27,7 +26,6 @@ I'm a 19 Year old student from germany.
 [instagram]: https://instagram.com/lazy_luca999
 [linkedin]: https://www.linkedin.com/in/luca-schwan-4b72b21b1/
 
-<br />
 <br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucaSchwan&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
