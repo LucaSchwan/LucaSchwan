@@ -7,7 +7,7 @@ I'm a 19 Year old student from germany.
 
 * 🌱Currently learning flutter and full stack web development.
 
-* 🥅Goals for 2020: finishing my own website and mobile app.
+* 🥅Goals for 2021: finishing my own website and mobile app.
 
 <br />
 
