@@ -1,6 +1,6 @@
 ## ehrenschwan
 
-I'm a 19 Year old student from germany.
+I'm a 20 Year old student from germany.
 ---
 
 * 🔭Currently working on my own website and on a flutter app.
@@ -23,7 +23,6 @@ I'm a 19 Year old student from germany.
 
 [website]: https://ehrenschwan.dev
 [twitter]: https://twitter.com/ehrenschwan
-[instagram]: https://instagram.com/lazy_luca999
 [linkedin]: https://www.linkedin.com/in/luca-schwan-4b72b21b1/
 
 <br />
