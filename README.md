@@ -14,8 +14,6 @@ I'm a 20 Year old student from germany.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="center" alt="ehrenschwan.dev" width="35px" src="https://image.flaticon.com/icons/svg/125/125296.svg" />][website]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="center" alt="lazy_luca999 | Instagram" width="35px" src="https://image.flaticon.com/icons/svg/185/185985.svg" />][instagram]
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="center" alt="ehrenschwan | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/185/185961.svg" />][twitter]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="center" alt="Luca Schwan | LinkedIn" width="35px" src="https://image.flaticon.com/icons/svg/185/185964.svg" />][linkedin]
