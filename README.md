@@ -12,7 +12,7 @@ I'm a 20 Year old student from germany.
 <br />
 
 
-[<img align="center" alt="ehrenschwan.dev" width="35px" src="https://i7.pngguru.com/preview/662/211/612/computer-icons-symbol-clip-art-world-wide-web.jpg" />][website]
+[<img align="center" alt="ehrenschwan.dev" width="35px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.borsaturismoarcheologico.it%2Fwp-content%2Fuploads%2F2018%2F07%2Fweblogo-768x747.png&f=1&nofb=1" />][website]
 
 [<img align="center" alt="ehrenschwan | Twitter" width="35px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F02%2FTwitter_Logo_new.png&f=1&nofb=1" />][twitter]
 
