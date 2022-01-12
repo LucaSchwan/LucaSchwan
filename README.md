@@ -3,11 +3,11 @@
 I'm a 20 Year old student from germany.
 ---
 
-* 🔭Currently working on my own website and on a flutter app.
+* 🔭Currently working on [eswn-data-structures](https://github.com/LucaSchwan/eswn-data-structures).
 
-* 🌱Currently learning flutter and full stack web development.
+* 🌱Currently learning full stack web development.
 
-* 🥅Goals for 2021: finishing my own website and mobile app.
+* 🥅Goals for 2022: finishing my own website.
 
 <br />
 
