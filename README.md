@@ -16,7 +16,8 @@ I'm a 20 Year old student from germany.
 
 [<img align="center" alt="ehrenschwan | Twitter" width="35px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F02%2FTwitter_Logo_new.png&f=1&nofb=1" />][twitter]
 
-[<img align="center" alt="Luca Schwan | LinkedIn" width="35px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngfind.com%2Fpngs%2Fm%2F53-534062_linkedin-for-lawyers-property-icon-circle-hd-png.png&f=1&nofb=1" />][linkedin]
+[<img align="center" alt="Luca Schwan | LinkedIn" width="35px" src="![image](https://user-images.githubusercontent.com/25820532/149153722-c1c1f21d-697f-4b0f-852f-77a9285bfd42.png)
+" />][linkedin]
 
 
 [website]: https://ehrenschwan.dev
