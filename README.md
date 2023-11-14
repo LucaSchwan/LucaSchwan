@@ -6,12 +6,6 @@ I've been mostly focused on web-development but I'm interested in a lot of forms
 
 ---
 
-###### Information is power
-
-> I believe information should be shared if possible. Equal access to information is an important step towards equality. Withdrawal of information for security  mostly creates a false sense of security and is rarely needed. Open source is holding together the world as we know it and it is only going to be more important in the future.
-
----
-
 ### Open source projects and tools I enjoy
 
 - [Linux](https://github.com/torvalds/linux)
