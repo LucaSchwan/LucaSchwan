@@ -1,6 +1,6 @@
 ## ehrenschwan
 
-I'm a 21 yr old software developer from Germany. I'm currently in my second year of professional training, aiming to be finished in the beginning of 2024.
+I'm a 21 yr old software developer from Germany.
 
 I've been mostly focused on web-development but I'm interested in a lot of forms of developing. I've used Linux for a few years and have lately gotten into infrastructure and devops.
 
